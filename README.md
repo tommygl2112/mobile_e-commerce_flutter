@@ -1,5 +1,8 @@
-# Classified App
-Tomas Garcia Lopez - UI Practice
+# E-commerce App
+
+Mobile apllication that allows users sell and buy products. The app includes features such as user registration, ad creation, editing, delete and filters.
+
+Technologies: Flutter, Dart, REST API, Firebase
 
 ## Screen 1
 ![Practice 1](./screenshots/LoginScreen.png)
